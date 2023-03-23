@@ -1,1 +1,1 @@
-# odin-recipes
+This website is going to have some cool recipes fot the people. 
